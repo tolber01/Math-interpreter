@@ -1,0 +1,11 @@
+multiplier = 
+A = 
+B = 
+SUM = A + B
+SUB = A - B
+MULT = A * B
+MULT_NUMBER = multiplier * A
+SUM
+SUB
+MULT
+MULT_NUMBER
